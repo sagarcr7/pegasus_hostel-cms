@@ -1,0 +1,202 @@
+
+body
+{
+	margin:0px;
+	background-image: url("sunset.jpg");
+}
+
+.mainwrapper
+{
+	width:1000px;
+	margin-left: 200px;
+	margin-top:-100px;
+		
+}
+	
+.header
+{
+	width:800px;
+	height:150px;
+	background-color:#999;
+	background:url(images/header.png);
+	
+	
+}
+.welcome
+{
+	width:900px;
+	height:50px;
+	background-color:#666;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:2px;
+	float: left;
+	
+}
+
+
+.welcome p
+{
+	color:#FFF;
+	text-decoration:none;
+	text-align:center;
+	font-size:18px;
+}
+
+.welcome a
+{
+	color:#FFF;
+	text-decoration:none;
+	float:right;
+}
+
+
+.content
+{
+	width:1000px;
+	background-color:#093;
+	margin-top:10px;
+	
+	
+}
+
+.box1
+{
+	float:left;
+	width:200px;
+	background-color:#666;
+	height:400px;
+}
+
+.box1 ul li
+{
+	padding:1px;
+	margin:1px;
+	list-style:none;
+	padding:10px 10px 0px 5px;
+}
+
+.box1 ul li a
+{
+	text-decoration:none;
+	color:#FFF;
+	display:inline-block;
+	height:20px;
+	padding:5px;
+	
+	
+}
+.box1 ul li a:hover
+{
+	text-decoration:none;
+	
+	background:#099;
+	
+}
+		
+
+.box2
+{
+	float:left;
+	width:500px;
+	height:349px;
+	background-color: skyblue;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:1px;
+
+}
+
+.box2 ul li
+{
+	padding:1px;
+	margin:1px;
+	list-style:devanagari;
+	padding:10px 10px 0px 10px;
+	font-size: 20px;
+	font-family: serif;
+}
+
+.box2 a
+{
+	text-decoration:none;
+	color:#069;
+}
+.box2 a:hover
+{
+	text-decoration:none;
+	color:#069;
+	text-decoration:underline;
+}
+.addstdtable tr td{
+	text-align: center;
+	font-size: 13px;
+	font-family: serif;
+	box-sizing: 10px;
+
+}
+
+.box3
+{
+	float:left;
+	width:199px;
+	height:350px;
+	background-color:#666;
+	margin-left:1px;
+}
+.manage{
+	margin-left: 30px;
+	margin-top: 60px;
+
+}
+.manage ul li{
+	list-style: none;
+	padding:10px 10px 10px 20px;
+	margin:1px;
+}
+.manage b{
+	color: red;
+	font-size: 30px;
+}
+.box3 ul,li
+{
+	padding:0px;
+	margin:0px;
+}
+.box3 ul li 
+{
+	list-style:none;
+	padding:10px 5px 10px 20px;
+	
+}
+
+.box3 ul li a
+{
+	text-decoration:none;
+	color:#FFF;
+	display:inline-block;
+	height:20px;
+	padding:5px;
+	
+}
+.box3 ul li a:hover
+{
+	text-decoration:none;
+	background-color:#099;
+
+	
+}
+		
+.footer
+{
+	width:721px;
+	height:50px;
+	background-color:#666;
+	float:left;
+	margin-top:1px;
+}
+
+.footer p
+{
+	color:#FFF;
+}

@@ -1,0 +1,43 @@
+*{
+	font-family:"Courier New", Courier, monospace;
+}
+.wrapper
+{
+	margin-top:50px;
+	margin-left: 100px;
+	width:970px;
+	height:500px;
+	
+}
+.top
+{
+	margin-left: 100px;
+	width:870px;
+	height:50px;
+	background-image: url(sunset.jpg);
+}
+
+.down
+{
+	background:#5E2D79;
+	margin-top:1px;
+	width:970px;
+	height:auto;
+	float: left;
+}
+.left_down
+{
+	float:left;
+	width:50px;
+	height:30px;
+}
+
+.right_down
+{
+	color:#FFFFFF;
+	margin-left: 300px;
+	width:565px;
+	height:448px;
+	font-size: 20px;
+	box-sizing: 10px;
+}/
